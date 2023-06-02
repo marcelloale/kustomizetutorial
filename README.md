@@ -1,0 +1,2 @@
+# kustomizetutorial
+Kubernetes Kustomize Tutorial
