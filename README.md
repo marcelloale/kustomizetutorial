@@ -1,6 +1,6 @@
-# Projeto baseado no tutorial Kubernetes Kustomize
+# Repo baseado no tutorial Kubernetes Kustomize
 
-Este projeto é baseado no tutorial disponível em: [https://antonputra.com/kubernetes/kubernetes-kustomize-tutorial/](https://antonputra.com/kubernetes/kubernetes-kustomize-tutorial/).
+Este repo é baseado no tutorial disponível em: [https://antonputra.com/kubernetes/kubernetes-kustomize-tutorial/](https://antonputra.com/kubernetes/kubernetes-kustomize-tutorial/).
 Github do autor: [Anton Putra](https://github.com/antonputra)
 
 ## Descrição
