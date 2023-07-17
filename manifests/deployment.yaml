@@ -1,0 +1,16 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: "cloud"
+  name: "test-app"
+spec:
+  selector:
+    matchLabels:
+      app: "test-app"
+  template:
+    metadata:
+      name: "test-app"
+    spec:
+      containers:
+        - name: "test-app"
+          image: "app-image" # The value "app-image" references "app-image" in kustomize.yaml
